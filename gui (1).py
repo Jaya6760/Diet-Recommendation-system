@@ -919,3 +919,6 @@ main_win.geometry("400x200")
 main_win.wm_title("DIET RECOMMENDATION SYSTEM")
 #GUIEXECUTION
 main_win.mainloop()
+
+
+
