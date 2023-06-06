@@ -689,3 +689,5 @@ Button(main_win,text='Healthy',font='Helvetica 8 bold',command=Healthy).grid(row
 main_win.geometry("400x200")
 main_win.wm_title("DIET RECOMMENDATION SYSTEM")
 main_win.mainloop()
+
+
